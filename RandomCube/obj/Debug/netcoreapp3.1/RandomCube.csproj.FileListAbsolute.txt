@@ -1,0 +1,11 @@
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.exe
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.deps.json
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.runtimeconfig.json
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.runtimeconfig.dev.json
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.dll
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\bin\Debug\netcoreapp3.1\RandomCube.pdb
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\obj\Debug\netcoreapp3.1\RandomCube.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\obj\Debug\netcoreapp3.1\RandomCube.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\obj\Debug\netcoreapp3.1\RandomCube.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\obj\Debug\netcoreapp3.1\RandomCube.dll
+C:\Users\Bartek\source\repos\RandomCube\RandomCube\obj\Debug\netcoreapp3.1\RandomCube.pdb
